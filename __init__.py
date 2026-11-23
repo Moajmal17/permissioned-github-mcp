@@ -1,0 +1,1 @@
+"""Permissioned GitHub MCP server."""
